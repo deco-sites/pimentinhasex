@@ -1,42 +1,181 @@
 {
-    "name": "Home",
-    "path": "/",
-    "sections": [
-      {
-        "__resolveType": "Header"
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<p>Desperte sua sensualidade com nossos produtos eróticos.</p>",
+      "cta": [],
+      "description": "Explore nossa linha exclusiva de brinquedos, acessórios e cosméticos sensuais para momentos inesquecíveis. Compras 100% seguras e discretas.",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/fe511e29-ce4a-4edd-976c-598059be8ca1/A-small-chili-pepper-symbolizing-sensuality"
+    },
+    {
+      "__resolveType": "site/sections/Logos.tsx",
+      "title": "Marcas que você confia",
+      "logos": [
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/6e523c1b-0996-4e9f-9e2d-46e3af4a30ae/1-slide-1694095305978-4375955003-d0ca68cba4044465b847ab82caafcea91694095307-480-0.webp",
+          "altText": "Pimentinha Sex Shop"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/7cad5ac1-6e6f-406d-a730-6c866412e130/1-slide-1694095305978-2953132189-7c1bf70153dc21e9bff7b1f336858eee1694095308-480-0.webp",
+          "altText": "sexy fantasy"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/d844f48d-0465-4bfc-bb0b-013671373846/1-slide-1694095305978-6081850488-2d2148f7ef6e776ce10f5ade219610471694095309-480-0.webp",
+          "altText": "for sexy"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/3c8ecacb-13b5-4345-b5c4-28038eceb048/1-slide-1694095305978-1838191652-87ba13e3bb94bb973ab645d03423b5151694095310-480-0.webp",
+          "altText": "pimenta sexy"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/c0f176d5-fa22-4413-a6ff-b462250048b9/1-slide-1694095305978-5991656040-adeabc4ee43d95f46ede5950601656af1694095311-480-0.webp",
+          "altText": "Dominatrixxx"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/99335227-a460-40c9-97b4-5be0c218107b/1-slide-1694095305978-4362115020-0271680d96378f80e4794aa5d15f78b01694095311-480-0.webp",
+          "altText": "Hot Flowers"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/53a541cd-1a3c-436d-bb79-7df0c37b63b3/1-slide-1694095305978-2520187035-2e45f6299c22c257a60e0bb46032b4951694095312-480-0.webp",
+          "altText": "Pimentinha Import"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "title": "Prazer garantido",
+      "titlePlacement": "left",
+      "description": "Na Pimentinha Sex Shop, selecionamos os melhores produtos para estimular sua imaginação e transformar suas experiências. Sinta-se à vontade para explorar e encontrar o que desperta seu prazer.",
+      "descriptionPlacement": "left",
+      "tagline": "Explore novas sensações com nossos produtos",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/056ae588-18fc-488f-85ec-47d3bd6ace65/Unsplash-picture.jpg",
+      "placement": "right",
+      "cta": [
+        {
+          "href": "https://www.pimentinhasexshop.com.br/produtos/",
+          "text": "Compre Agora",
+          "style": "Outline"
+        },
+        {
+          "href": "https://www.pimentinhasexshop.com.br/contato/",
+          "text": "Saiba Mais",
+          "style": "Ghost"
+        }
+      ],
+      "ctaPlacement": "left"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "placement": "left",
+      "title": "Desperte sensualidade com nossos produtos eróticos",
+      "tagline": "Artigos e guias sobre sensualidade e prazer",
+      "description": "Explore nossa linha exclusiva de brinquedos, acessórios e cosméticos sensuais para momentos inesquecíveis. Compras 100% seguras e discretas.",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/95b10c57-80f6-475b-8eab-528f3334bdd6/Unsplash-picture.jpg",
+      "cta": [
+        {
+          "style": "Outline",
+          "text": "Visite nosso Blog",
+          "href": "https://blog.pimentinhasexshop.com.br/"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/BlogPosts.tsx",
+      "title": "Dicas e novidades",
+      "description": "Artigos e guias sobre sensualidade e prazer",
+      "posts": [
+        {
+          "tags": [],
+          "title": "Volumão Gel Masculino de Ereção – 25g: O Prolongador de Ereção Que Você Precisa",
+          "author": "Pimentinha",
+          "excerpt": "O Volumão Gel Masculino de Ereção é um gel desenvolvido para quem busca um maior tempo de ereção e uma sensação de inchaço temporário no pênis. Este produto é ideal para homens que querem maximizar o prazer ou estão enfrentando dificuldades de ereção.",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/c303e2c3-72a4-4c8a-a546-b21d9b064f00/Volumao-Gel-Masculino-de-Erecao--25g-O-Prolongador-de-Erecao-Que-Voce-Precisa.jpg",
+          "date": "14/06/2024"
+        },
+        {
+          "tags": [],
+          "title": "Você Realmente Precisa Usar Proteção Durante o Sexo Oral?",
+          "author": "Sex Shop",
+          "excerpt": "Dar uma lambida aqui, um chupão ali… Todo mundo faz, né? Afinal, com 85% das pessoas curtindo o sexo oral, não é à toa que ele tem tantos apelidos! Mas será que a gente tá se protegendo direitinho? Porque, spoiler: sexo oral não é sinônimo de sexo seguro.",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/756d462f-4dc0-4b83-9899-9f775e41a2e4/Voce-Realmente-Precisa-Usar-Protecao-Durante-o-Sexo-Oral.jpg",
+          "date": "28/10/2023"
+        },
+        {
+          "tags": [],
+          "title": "Vibradores Ponto G – Como Escolher e Usar de um Jeito Fácil",
+          "excerpt": "Você sabia que os vibradores para o ponto G são aliados incríveis na masturbação? Além de trazer vários benefícios para a saúde feminina, eles ainda ajudam a esquentar a relação do casal. É uma forma divertida de conhecer melhor o corpo e descobrir o que dá mais prazer!",
+          "author": "Produtos Eróticos",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/0817a894-3dff-4942-b87a-ad8a772f5601/Vibradores-Ponto-G--Como-Escolher-e-Usar-de-um-Jeito-Facil.jpg",
+          "date": "26/06/2024"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Testimonials.tsx",
+      "arrows": true,
+      "title": "Depoimentos de clientes satisfeitos",
+      "slides": [
+        {
+          "content": {
+            "description": "Os produtos da Pimentinha Sex Shop transformaram minhas noites! Comprei com discrição e o atendimento foi impecável. Recomendo a todos!",
+            "name": "Mariana S.",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/64470ac3-bce4-44d4-8bd3-21fd37cdc8a9/A-satisfied-person-named-Mariana"
+          }
+        },
+        {
+          "content": {
+            "description": "Adorei a variedade de produtos! A Pimentinha Sex Shop superou minhas expectativas, com produtos de qualidade e entrega rápida e discreta. Voltarei a comprar com certeza!",
+            "name": "Carlos M.",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/36f0cf32-086c-45cb-9ef5-3d9d25571b78/customer-named-Carlos-discreet-smile"
+          }
+        },
+        {
+          "content": {
+            "description": "A experiência de compra foi maravilhosa. Além dos produtos serem incríveis, o atendimento foi atencioso e todas as minhas dúvidas foram respondidas rapidamente. Recomendo a todos que querem apimentar a relação!",
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/786dd9f9-6adc-46fc-b9d1-1d8e3c2fa6da/woman-for-testimonial-photo",
+            "name": "Renata L."
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Faq.tsx",
+      "title": "Perguntas Frequentes",
+      "description": "Tire todas as suas dúvidas com nossa equipe",
+      "cta": {
+        "text": "Fale Conosco",
+        "href": "https://www.pimentinhasexshop.com.br/contato/"
       },
-      {
-        "__resolveType": "site/sections/Hero.tsx",
-        "title": "<p>Click here to tweak this text however you want.</p>",
-        "cta": [],
-        "description": "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away."
-      },
-      {
-        "__resolveType": "site/sections/Logos.tsx"
-      },
-      {
-        "__resolveType": "site/sections/ImageWithParagraph.tsx"
-      },
-      {
-        "__resolveType": "site/sections/ImageWithParagraph.tsx",
-        "placement": "right"
-      },
-      {
-        "__resolveType": "site/sections/BlogPosts.tsx"
-      },
-      {
-        "__resolveType": "site/sections/Testimonials.tsx",
-        "arrows": true
-      },
-      {
-        "__resolveType": "site/sections/Faq.tsx"
-      },
-      {
-        "__resolveType": "Footer"
-      }
-    ],
-    "__resolveType": "website/pages/Page.tsx",
-    "seo": {
-      "__resolveType": "website/sections/Seo/SeoV2.tsx"
+      "questions": [
+        {
+          "title": "Como é feita a entrega?",
+          "answer": "<p>A entrega é feita de maneira 100% discreta, sem nenhuma menção ao conteúdo na embalagem.</p>"
+        },
+        {
+          "title": "Os produtos são seguros?",
+          "answer": "<p>Trabalhamos apenas com marcas reconhecidas que garantem a segurança e qualidade dos produtos.</p>"
+        },
+        {
+          "title": "Os produtos vêm em embalagens discretas?",
+          "answer": "<p>Sim, todas as nossas entregas são feitas em embalagens discretas, sem nenhuma indicação do conteúdo ou da nossa loja, garantindo sua privacidade.</p>"
+        },
+        {
+          "title": "Quais são as formas de pagamento aceitas?",
+          "answer": "<p>Aceitamos diversas formas de pagamento, incluindo cartão de crédito, débito, boleto bancário e transferências via Pix.</p>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer"
     }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
   }
+}

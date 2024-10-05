@@ -1,1 +1,33 @@
-{"__resolveType":"site/sections/Footer.tsx","links":[],"bottomLinks":[],"social":[],"subscribe":{}}
+{
+  "__resolveType": "site/sections/Footer.tsx",
+  "links": [],
+  "bottomLinks": [
+    {
+      "label": "Pimentinha Sex Shop Loja Virtual",
+      "href": "https://www.pimentinhasexshop.com.br/"
+    }
+  ],
+  "social": [
+    {
+      "network": "Facebook",
+      "href": "https://www.facebook.com/lojapimentinhass"
+    },
+    {
+      "network": "Instagram",
+      "href": "https://www.instagram.com/pimentinha.ss"
+    }
+  ],
+  "subscribe": {
+    "title": "Inscreva-se",
+    "description": "Assine nossa newsletter e receba promoções especiais diretamente no seu e-mail.",
+    "instructions": "<p></p>"
+  },
+  "logo": {
+    "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/e69c44f6-ce91-410b-8aff-7a7428030c8b/logo-png-pimentinha-sex-shop.png"
+  },
+  "madeWith": {
+    "href": "https://www.pimentinhasexshop.com.br/",
+    "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/6e523c1b-0996-4e9f-9e2d-46e3af4a30ae/1-slide-1694095305978-4375955003-d0ca68cba4044465b847ab82caafcea91694095307-480-0.webp"
+  },
+  "copyright": "Direitos reservado à Pimentinha Sex Shop"
+}
