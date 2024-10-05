@@ -1,14 +1,14 @@
 {
   "seo": {
     "type": "website",
-    "title": "Landing",
+    "title": "Pimentinha Sex Shop - Aqueça Seus Momentos com Produtos Exclusivos",
     "jsonLDs": [],
     "noIndexing": false,
-    "description": "Improve your page performance with deco.cx",
-    "titleTemplate": "Landing | deco.cx",
-    "descriptionTemplate": "%s | Deco.cx",
-    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4763/0fba8a8c-ee79-47e1-8f9d-863658d056cc",
-    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4763/1350f37f-88ab-4cf1-bcf6-c386bcf8b238"
+    "description": "Explore uma variedade de produtos sensuais de alta qualidade na Pimentinha Sex Shop. Entrega rápida, segura e 100% discreta para apimentar sua relação.",
+    "titleTemplate": "Landing | Pimentinha Sex Shop",
+    "descriptionTemplate": "%s | Pimentinha Sex Shop",
+    "favicon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/6e523c1b-0996-4e9f-9e2d-46e3af4a30ae/1-slide-1694095305978-4375955003-d0ca68cba4044465b847ab82caafcea91694095307-480-0.webp",
+    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/pimentinhasex/0817a894-3dff-4942-b87a-ad8a772f5601/Vibradores-Ponto-G--Como-Escolher-e-Usar-de-um-Jeito-Facil.jpg"
   },
   "global": [
     {
